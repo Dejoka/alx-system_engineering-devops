@@ -9,4 +9,5 @@ Task 7 script that adds execution permission to the owner, the group owner and t
 Task 8  script that sets the permission to the file hello to only other users excluding owner and groups
 Task 9 script that sets the mode of file to hello
 Task 10  script that sets the mode of the file hello the same as olleh
-Task 11 script that adds execute permission to all subdirectories of the current directory for all without changing regular files 
+Task 11 script that adds execute permission to all subdirectories of the current directory for all without changing regular files
+Task 12 script that creates a directory with permission in the working directory 
