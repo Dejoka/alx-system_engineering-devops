@@ -13,4 +13,5 @@ Task 11 script that adds execute permission to all subdirectories of the current
 Task 12 script that creates a directory with permission in the working directory
 Task 13 script that changes the group owner to school for the file hello
 Task 14  script that changes the owner to vincent and the group owner to staff for all the files and directories
-Task 15 script that changes the owner and the group owner of _hello to vincent and staff respective 
+Task 15 script that changes the owner and the group owner of _hello to vincent and staff respective
+Task 16 script that changes the owner of the file hello to betty only if it is owned by the user guillaume 
