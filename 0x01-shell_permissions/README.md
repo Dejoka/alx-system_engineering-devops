@@ -11,4 +11,5 @@ Task 9 script that sets the mode of file to hello
 Task 10  script that sets the mode of the file hello the same as olleh
 Task 11 script that adds execute permission to all subdirectories of the current directory for all without changing regular files
 Task 12 script that creates a directory with permission in the working directory
-Task 13 script that changes the group owner to school for the file hello 
+Task 13 script that changes the group owner to school for the file hello
+Task 14  script that changes the owner to vincent and the group owner to staff for all the files and directories 
