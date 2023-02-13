@@ -1,1 +1,1 @@
-Task 14 Display lines containing the pattern root from a file
+Task 15 Display the number of lines that contain the pattern bin in the file
