@@ -1,1 +1,1 @@
-Display the first 10 lines of a file
+Task 6 First three lines of a file
