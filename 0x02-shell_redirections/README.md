@@ -1,1 +1,1 @@
-Task 13 script that takes a list of words as input and prints only words that appear exactly once
+Task 14 Display lines containing the pattern root from a file
