@@ -1,1 +1,1 @@
-Task 10 no more javascript
+Task 12 script that creates new files
