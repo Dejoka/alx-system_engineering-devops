@@ -1,1 +1,1 @@
-Task 16 Display lines containing the pattern root and 3 lines after them
+Task 18 Display all lines of files starting with letters
