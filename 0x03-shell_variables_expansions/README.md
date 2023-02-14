@@ -8,3 +8,4 @@ Task 6 script that creates a new local variable
 Task 7 Create a script that creates a new global variable
 Task 8 Write a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE
 Task 10 Write a script that displays the result of BREATH to the power LOVE
+Task 11 Write a script that converts a number from base 2 to base 10
